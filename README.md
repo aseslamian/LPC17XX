@@ -3,7 +3,7 @@
 This is an Implementation of my bachelor thesis at University of Isfahan.
 The purpose of this project is to design and implement simuator circuit which is similar to input of MTI radar. Here we use LPC1768 ARM Cortex m3 to 
 sample data with ADC and 
-detect the moving target with three pulse processing.
+detect the moving target with three pulse MTI canceller processing.
 The simulator circuit diagram is shown below:
 
 ![Capture](https://user-images.githubusercontent.com/79360716/213926490-5dfba126-e796-4ef0-a90f-1caf4a481712.JPG)
