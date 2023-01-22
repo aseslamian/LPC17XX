@@ -2,7 +2,7 @@
 ## Implementation of Three Pulse canceller in MTI Processor using ARM
 This is an Implementation of my bachelor thesis at University of Isfahan.
 The purpose of this project is to design and implement simuator circuit which is similar to input of MTI radar. Here we use LPC1768 ARM Cortex m3 to 
-sample data with DAC and 
+sample data with ADC and 
 detect the moving target with three pulse processing.
 The simulator circuit diagram is shown below:
 
