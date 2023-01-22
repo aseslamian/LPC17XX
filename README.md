@@ -11,3 +11,5 @@ The simulator circuit diagram is shown below:
 and the LPC1768 will implement the following algorithm:
 
 ![Capture4](https://user-images.githubusercontent.com/79360716/213926855-dbce6bfa-abc6-41c9-9b8e-25668615bbdd.JPG)
+
+I used Keil MDK software for code developing.
