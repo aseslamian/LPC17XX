@@ -1,6 +1,6 @@
 # LPC17XX
 ## Implementation of Three Pulse canceller in EEG signals using ARM
-This code represents the implementation of my bachelor thesis conducted at the University of Isfahan. The objective of this project is to create a simulator circuit that emulates EEG signals. In this implementation, we utilize the LPC1768 ARM Cortex M3 microcontroller to sample data using an ADC and detect the presence of uncertainty in brain signals.
+The objective of this project is to create a simulator circuit that emulates signals. In this implementation, we utilize the LPC1768 ARM Cortex M3 microcontroller to sample data using an ADC and detect the presence of uncertainty in brain signals.
 The simulator circuit diagram is shown below:
 
 ![Capture](https://user-images.githubusercontent.com/79360716/213926490-5dfba126-e796-4ef0-a90f-1caf4a481712.JPG)
